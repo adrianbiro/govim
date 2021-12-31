@@ -1,5 +1,6 @@
 ## `govim` - Go development plugin for Vim8
 
+
 Command `github.com/govim/govim/cmd/govim` (referred to simply as `govim`) is a Go development plugin for Vim8, much
 like [`vim-go`](https://github.com/fatih/vim-go). But unlike `vim-go`, `govim` is written in Go, not VimScript. It has
 features like code completion, format-on-save, hover details and go-to definition, all of which are driven by
